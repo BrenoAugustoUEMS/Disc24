@@ -1,1 +1,1 @@
-var mondo = "Meu amigo Andrei";
+var mondo = "Meu amigo Edson";
